@@ -15,10 +15,11 @@ Algorithms are central to computer science and engineering.  This curated list g
 | **Algorithm Design** – Jon Kleinberg & Éva Tardos | Introduces algorithm design via real‑world problems and emphasises understanding the design process.  Chapters such as maximum‑flow are treated with narrative detail【278851980974523†L39-L87】. | Good for advanced undergraduates. |
 | **The Algorithm Design Manual** – Steven S. Skiena | Blends theory with practical advice and includes a catalog (the “Hitchhiker’s Guide to Algorithms”) to help practitioners choose appropriate algorithms. | Often used by programmers; not on O’Reilly. |
 | **Algorithms** – Sanjoy Dasgupta, Christos Papadimitriou & Umesh Vazirani | Provides intuitive explanations and pseudocode; suitable for a first undergraduate algorithms course. | |
+| **Algorithms (4th Edition)** – Robert Sedgewick & Kevin Wayne | Surveys the most important algorithms and data structures used today and motivates each algorithm by examining its impact on applications to science, engineering, and industry. Chapters cover fundamentals, sorting, searching, graphs, strings, and context【763136615315994†L91-L115】. | Good intermediate-level reference; widely used in MOOCs. |
+
 | **Algorithms Unlocked** – Thomas H. Cormen | Gentle introduction that explains what algorithms do without heavy mathematics. | Available on O’Reilly. |
 
 ## Specialized and Advanced Books
-
 | Focus | Title and Author(s) | Description | Notes |
 |---|---|---|---|
 | **Practical reference** | **Algorithms in a Nutshell** – George T. Heineman, Gary Pollice & Stanley Selkow (O’Reilly) | O’Reilly guide that helps practitioners select and implement algorithms.  It provides code in multiple languages and discusses performance and design patterns【201099183303045†L56-L81】. | O’Reilly; practical reference. |
@@ -27,6 +28,7 @@ Algorithms are central to computer science and engineering.  This curated list g
 | **Optimization and network flow** | **Network Flows: Theory, Algorithms, and Applications** – Ravindra K. Ahuja, Thomas L. Magnanti & James B. Orlin | Definitive reference on network flow algorithms and applications. | |
 | **Graph algorithms** | **Graph Theory and Its Applications** – Jonathan Gross & Jay Yellen | Introduces graph theory and algorithms with applications; includes matching, network flow, planarity and colouring. | |
 | **Online and competitive programming** | **Competitive Programming** – Steven Halim, Felix Halim & Suhendry Effendy | Contains algorithmic techniques and problem‑solving patterns for competitions; includes data‑structure and optimization tricks. | |
+| **Combinatorial optimization** | **Combinatorial Optimization: Algorithms and Complexity** – Christos H. Papadimitriou & Kenneth Steiglitz | Mathematically rigorous introduction to combinatorial optimization covering the simplex and ellipsoid methods, efficient algorithms for network flow, matching, spanning trees, matroids, NP‑complete problems and approximation algorithms【867595542088344†L56-L64】. | Suitable for graduate‑level study. |
 
 ## Classic and Foundational Papers
 
